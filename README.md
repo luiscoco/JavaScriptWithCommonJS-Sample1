@@ -33,7 +33,9 @@ Now, to run this project in VSCode, follow these steps:
 
 3.Open a terminal in VSCode by going to View -> Terminal.
 
-4.Make sure you have Node.js installed on your machine. You can check by running node -v in the terminal. If it's not installed, download and install it from the official Node.js website.
+4.Make sure you have Node.js installed on your machine. You can check by running node -v in the terminal. 
+
+If it's not installed, download and install it from the official Node.js website.
 
 5.In the terminal, navigate to your project folder using the cd command. For example: 
 ```
